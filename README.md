@@ -12,7 +12,7 @@
   <a href="https://github.com/MDBrodskiy/Honors_Discovery">
     <img src="images/background.png" alt="background">
   </a>
-  <h3 align="center">Honors Discovery — History of Espionage</h3>
+  <h3 align="center">Honors Discovery — Twentieth Century Espionage</h3>
 <br />
 </p>
 
