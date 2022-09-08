@@ -248,5 +248,5 @@ TSWLatexianTemp*
 # generated if using elsarticle.cls
 *.spl
 
-# additional course-related document
-SafetyCertificate.pdf
+# course-related documents
+Lectures/
