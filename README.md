@@ -21,6 +21,7 @@
 
 * [**Notes**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes)
   * [**Includes**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes/Includes.tex)
+  * [**The Great Game**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes/Notes1.pdf)
 <!--
   * [**Chapter 1**](#Notes/Chapter\ 1)
 * [**Exams**](#Exams)
