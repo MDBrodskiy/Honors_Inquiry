@@ -24,6 +24,7 @@
   * [**The Great Game**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes/Notes1.pdf)
   * [**The Information Revolution**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes/Notes2.pdf)
   * [**Alfred Redl**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes/Notes3.pdf)
+  * [**WW1 Codebreakers**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes/Notes4.pdf)
 <!--
   * [**Chapter 1**](#Notes/Chapter\ 1)
 * [**Exams**](#Exams)
