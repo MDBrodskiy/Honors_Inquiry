@@ -26,6 +26,7 @@
   * [**Alfred Redl**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes/Notes3.pdf)
   * [**WW1 Codebreakers**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes/Notes4.pdf)
   * [**Sexpionage**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes/Notes5.pdf)
+  * [**The Russian Revolution**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes/Notes6.pdf)
 <!--
   * [**Chapter 1**](#Notes/Chapter\ 1)
 * [**Exams**](#Exams)
