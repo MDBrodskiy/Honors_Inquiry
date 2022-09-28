@@ -19,6 +19,9 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
+* [**Presentations**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Presentations)
+  * [**French Intervention**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Presentations/French%20Intervention/Handout1.pdf)
+  * [**American Intervention**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Presentations/American%20Intervention/Handout2.pdf)
 * [**Notes**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes)
   * [**Includes**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes/Includes.tex)
   * [**The Great Game**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Notes/Notes1.pdf)
