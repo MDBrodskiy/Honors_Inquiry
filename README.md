@@ -19,6 +19,9 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
+* [**Essays**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Essays)
+  * [**French Intervention**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Essays/FrenchIntervention.pdf)
+  * [**American Intervention**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Essays/AmericanIntervention.pdf)
 * [**Presentations**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Presentations)
   * [**French Intervention**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Presentations/French%20Intervention/Handout1.pdf)
   * [**American Intervention**](https://github.com/MDBrodskiy/Honors_Inquiry/tree/master/Presentations/American%20Intervention/Handout2.pdf)
