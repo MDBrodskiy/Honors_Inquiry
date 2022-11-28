@@ -16,6 +16,10 @@
 <br />
 </p>
 
+<p align="center">
+> "There are very few reliable histories of espionage, and with good cause.  The sources lie, are lost, are nonexistent, are withheld. Journalists (often) lack the patience, scholars (often) lack the clout to gain access, to stay the course, to outlast those who would with both good and malign intent seek to influence the writer’s conclusions." — Robin Winks (Yale University), 1994
+</p>
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
